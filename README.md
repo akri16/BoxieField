@@ -1,6 +1,6 @@
 # BoxieField - An easy-to-use boxed EditText 
 
-![Maven](https://img.shields.io/maven-central/v/io.github.akri16/boxiefieldlibrary)
+[![Maven](https://img.shields.io/maven-central/v/io.github.akri16/boxiefieldlibrary)](https://search.maven.org/artifact/io.github.akri16/boxiefieldlibrary/1.0.0/aar)
 
 A library that allows you to create a set of boxed EditTexts that are managed for cursor movement, enabling, tint, text addition and deletion, and text change notification. 
 
