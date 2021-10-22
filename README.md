@@ -1,8 +1,10 @@
-# BoxieField - An easy-to-use boxed EditText
+# BoxieField - An easy-to-use boxed EditText 
+
+![Maven](https://img.shields.io/maven-central/v/io.github.akri16/boxiefieldlibrary)
 
 A library that allows you to create a set of boxed EditTexts that are managed for cursor movement, enabling, tint, text addition and deletion, and text change notification. 
 
-<p align="center"><img alt="Screenshot" src="https://github.com/akri16/BoxieField/blob/main/assets/1.jpeg" width="200" center/></p>
+<p align="center"><img alt="Screenshot" src="https://github.com/akri16/BoxieField/blob/main/assets/1.png" width="200" center/></p>
 
 ## Motivation
 
@@ -35,19 +37,19 @@ dependencies {
 ## License
 
       MIT License
-
+    
       Copyright (c) 2021 Amit Krishna A
-
+    
       Permission is hereby granted, free of charge, to any person obtaining a copy
       of this software and associated documentation files (the "Software"), to deal
       in the Software without restriction, including without limitation the rights
       to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
       copies of the Software, and to permit persons to whom the Software is
       furnished to do so, subject to the following conditions:
-
+    
       The above copyright notice and this permission notice shall be included in all
       copies or substantial portions of the Software.
-
+    
       THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
       IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
       FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
